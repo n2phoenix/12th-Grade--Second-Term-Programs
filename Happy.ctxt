@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Happy()
+comment1.params=nn
+comment1.target=void\ getnum(int)
+comment2.params=x
+comment2.target=int\ sum_sq_digits(int)
+comment3.params=
+comment3.target=void\ ishappy()
+numComments=4

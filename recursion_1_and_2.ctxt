@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=java.lang.String\ stringClean(java.lang.String)
+comment1.params=str
+comment1.target=int\ countHi(java.lang.String)
+comment2.params=n
+comment2.target=int\ count8(int)
+comment3.params=start\ nums\ target
+comment3.target=boolean\ groupSum(int,\ int[],\ int)
+comment4.params=start\ nums\ target
+comment4.target=boolean\ groupSum5(int,\ int[],\ int)
+numComments=5
