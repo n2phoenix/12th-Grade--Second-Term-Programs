@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ a\ c\ b
+comment0.target=TowerOfHanoi(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ solve()
+comment2.params=num\ from\ to\ using
+comment2.target=void\ solveTower(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
